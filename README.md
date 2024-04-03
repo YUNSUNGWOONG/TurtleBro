@@ -1,5 +1,5 @@
 # TurtleBot(edited by jacksmith)
-![turtlebot_logo](https://github.com/YUNSUNGWOONG/turtlebot_projects/assets/100409315/32c6f83d-30fc-48a4-a881-99bc71383a5e)
+![turtlebot_logo](https://github.com/YUNSUNGWOONG/turtlebot_projects/assets/100409315/22479410-7663-4cc2-ae15-00730cb716b8)
 
 
 One Paragraph of the project description
