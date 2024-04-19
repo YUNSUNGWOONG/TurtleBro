@@ -7,8 +7,10 @@ One Paragraph of the project description
 Initially appeared on
 [gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
 
-## 새로운 소식받기!
+새로운 소식받기!
 <input type="submit" name="commit" value="Follow" class="btn btn-block" title="Follow YUNSUNGWOONG" aria-label="Follow YUNSUNGWOONG" data-hydro-click='{"event_type":"user_profile.click","payload":{"profile_user_id":100409315,"target":"FOLLOW_BUTTON","user_id":145294961,"originating_url":"https://github.com/YUNSUNGWOONG"}}' data-hydro-click-hmac="1da90414be3831db961eeec22401d84bb7bbb96c8f01600bcc13d28f70820a31" data-disable-with="Follow">
+
+[Follow YUNSUNGWOONG](https://github.com/YUNSUNGWOONG)
 
 
 ## Getting Started
