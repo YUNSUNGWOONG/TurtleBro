@@ -1,4 +1,4 @@
-# TurtleBot(edited by jacksmith)
+# TurtleBro(edited by jacksmith)
 ![turtlebot_logo](https://github.com/YUNSUNGWOONG/turtlebot_projects/assets/100409315/22479410-7663-4cc2-ae15-00730cb716b8)
 
 
