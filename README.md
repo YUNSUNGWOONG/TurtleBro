@@ -1,5 +1,13 @@
 # TurtleBro(edited by jacksmith)
-![turtlebot_logo](https://github.com/YUNSUNGWOONG/turtlebot_projects/assets/100409315/22479410-7663-4cc2-ae15-00730cb716b8)
+
+
+<p align="center">
+  <br>
+ 	<img src="https://github.com/YUNSUNGWOONG/turtlebot_projects/assets/100409315/22479410-7663-4cc2-ae15-00730cb716b8" alt="turtlebot_logo" style="zoom:80%;" />
+  <br>
+</p>
+
+
 
 
 One Paragraph of the project description
