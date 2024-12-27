@@ -8,11 +8,15 @@
 </p>
 
 
-# 터틀봇(TurtleBot)을 이용한 자율주행 차량 구현
-[사진]
+# 터틀봇(TurtleBot)을 이용한 자율주행 차량 구현 - 
+<p align="center">
+  <br>
+ 	<img src="https://github.com/user-attachments/assets/edfb56be-7127-48f8-be40-9a777468ea99" alt="turtlebot_logo" style="zoom:10%;" />
+  <br>
+</p>
 
 ## ✨Abstract(작품개요)
-해당 작품을 소개하는 개요글을 넣어주세요!
+ROS와 SLAM 등을 활용하여 시뮬레이션 학습과 모형 차량 학습을 수행
 
 ### 💻Architecture(아키텍처)
 
