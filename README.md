@@ -1,6 +1,5 @@
 # TurtleBro
 
-
 <p align="center">
   <br>
  	<img src="https://github.com/YUNSUNGWOONG/turtlebot_projects/assets/100409315/22479410-7663-4cc2-ae15-00730cb716b8" alt="turtlebot_logo" style="zoom:80%;" />
@@ -8,7 +7,7 @@
 </p>
 
 
-# 터틀봇(TurtleBot)을 이용한 자율주행 차량 구현 - 
+# 터틀봇(TurtleBot)을 이용한 자율주행 차량 구현 - 터틀브로(Team)
 <p align="center">
   <br>
  	<img src="https://github.com/user-attachments/assets/edfb56be-7127-48f8-be40-9a777468ea99" alt="turtlebot_image" width=60% />
