@@ -11,7 +11,7 @@
 # 터틀봇(TurtleBot)을 이용한 자율주행 차량 구현 - 
 <p align="center">
   <br>
- 	<img src="https://github.com/user-attachments/assets/edfb56be-7127-48f8-be40-9a777468ea99" alt="turtlebot_logo" style="zoom:10%;" />
+ 	<img src="https://github.com/user-attachments/assets/edfb56be-7127-48f8-be40-9a777468ea99" alt="turtlebot_logo" style="zoom:100%;" />
   <br>
 </p>
 
