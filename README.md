@@ -38,7 +38,8 @@ ROS와 SLAM 등을 활용하여 시뮬레이션 학습과 모형 차량 학습�
 
 ### 💡Demo(시연영상)
 
-위 프로그램을 실행했을때의 시연영상을 넣어주세요!
+![image13-min](https://github.com/user-attachments/assets/bbe9699a-8847-4a89-84ee-a15ee093ec4b)
+
 
 
 ### 📑Contributing(기여 및 업무분장)
